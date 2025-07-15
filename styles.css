@@ -6,7 +6,7 @@
 
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 20px;
   background-color: #f3f3f3; 
@@ -26,4 +26,5 @@
 
 .nav-right a:hover {
   color: #0077ff;
+  font-style: italic;
 }
